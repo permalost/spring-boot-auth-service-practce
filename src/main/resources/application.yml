@@ -1,0 +1,3 @@
+app:
+  jwtSecret: "This is a long and insecure secret to utilize"
+  jwtExpirationInMs: 600000
